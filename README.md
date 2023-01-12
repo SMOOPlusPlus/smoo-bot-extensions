@@ -1,4 +1,4 @@
-# smo-online-bot-exts
+# smoo-bot-extensions
 
 ### Setup
 Go to https://discord.com/developers, set up 2FA for your discord account (if not already done so), and then make a app. 
