@@ -1,0 +1,14 @@
+{
+    "prefix": "!",
+    "debug": false,
+    "owners": ["your_userid_here"],
+    "activity": {
+        "status": "dnd",
+        "type": "WATCHING",
+        "name": "Hide and Seek"
+    },
+    "guilds": {
+        "mainguild": "0",
+        "developerguild": "your_guildid_here"
+    }
+}
